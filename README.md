@@ -1,4 +1,4 @@
-# twitter_sentiment
+# Project Outline
 The project is under the instruction of Terence Parr as one of the projects of MSAN692 Data Acquisition.
 
 
